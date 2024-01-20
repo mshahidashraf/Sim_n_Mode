@@ -1,5 +1,5 @@
 # Weekly Course Outline 
-## Simulation_n_Modelling_2024
+## Simulation and Modelling 2024
 Email : <a href="mailto:shahid.ashraf@nu.edu.pk" style=" word-wrap: break-word;" target="_blank">shahid.ashraf@nu.edu.pk</a></p>
 ## Assessment Instruments with Weights (homework, quizzes, midterms, final, programming assignments, lab work, etc.)
 | Assessment         | Weights | 
