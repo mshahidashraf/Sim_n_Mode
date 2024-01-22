@@ -11,8 +11,7 @@ Email : <a href="mailto:shahid.ashraf@nu.edu.pk" style=" word-wrap: break-word;"
 |5| The Monte Carlo Simulation:Estimating the value of pi and simulating integration to find area under the curve.||
 |6|Mid 1 Exam ||
 |7| Statistical Models in Simulation Introduction to Software Simulation: Introduction to Arena and Simulation implemention||
-|8|Statistical Models in Simulation Expectation and Variance of the different distribution models Introduction to Software Simulation: Simulation implemention and solving flow
-problems ||
+|8|Statistical Models in Simulation Expectation and Variance of the different distribution models Introduction to Software Simulation: Simulation implemention and solving flow problems ||
 |9| Expectation and Variance of the Continious distribution models||
 |10| Simulation Software: Solving Flowchart problem and implementation of different Probability distributions in Arena Software Arena Graph and Simulation||
 |11|Mid 2 Exam ||
