@@ -28,3 +28,10 @@ Email : <a href="mailto:shahid.ashraf@nu.edu.pk" style=" word-wrap: break-word;"
 | Quizzes + Assignments                  | 20% |
 |Mid-term Exams                          | 30% |
 |End-term Exam (Final)                   | 50% |
+
+
+### Course Book 
+- Jerry Banks, John S. Carson, Barry L. Nelson, David M. Nicol, Discrete-Event System Simulation: Pearson New International Edition (5th Edition)
+- Ross, Sheldon M. Simulation. academic press, 2022.
+- Law, Averill M., W. David Kelton, and W. David Kelton. Simulation modeling and analysis. Vol. 3. New York: Mcgraw-hill, 2007.
+- Osais, Yahya E. Computer simulation: A foundational approach using Python. Chapman and Hall/CRC, 2017.
